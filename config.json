@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "hello-world-python",
+      "title": "Hello World in Python",
+      "description": "Write a simple script that prints a greeting message.",
+      "path": "assignments/hello-world-python",
+      "dueDate": "2026-04-03"
     }
   ]
 }
